@@ -1,0 +1,286 @@
+#A1 {
+    border: 5px solid black;
+    color: rgb(158, 144, 144);
+    height: 80px;
+    width: 1300px;
+    background-color: rgb(223, 108, 36);
+    font-size: 30px;
+}
+
+#B1 {
+    margin-top: 7px;
+}
+
+#B7 {
+    height: 825px;
+    width: 1310px;
+}
+
+#B2 {
+    font-size: 80px;
+    font-weight: 600px;
+    margin-left: 40px;
+    margin-top: -50px;
+}
+
+#A3 {
+    margin-top: -650px;
+    color: white;
+}
+
+#A4 {
+    margin-top: -35px;
+    color: white;
+}
+
+#B3 {
+    font-size: 73px;
+    font-weight: bolder;
+    margin-left: 40px;
+    margin-top: -50px;
+}
+
+#B4 {
+    color: white;
+    font-size: 30px;
+    margin-top: 65px;
+    margin-left: 40px;
+}
+
+#B5 {
+    color: red;
+    margin-left: 356px;
+    margin-top: -66px;
+    font-size: 30px;
+}
+
+#B6 {
+    color: rgb(219, 91, 44);
+    margin-left: 40px;
+    margin-top: 120px;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-thickness: 7px;
+
+}
+
+#A0 {
+    margin-left: 100px;
+}
+
+#A9 {
+    color: black;
+    font-size: 80px;
+    margin-top: 200px;
+    margin-left: 100px;
+    height: 750px;
+    width: 1300px;
+    border-top: 5px solid black;
+}
+
+#A10 {
+   
+    height: 160px;
+    width: 750px;
+    margin-left: 100px;
+    margin-top: -750px;
+    background-color: yellow;
+}
+
+#B8 {
+    margin-left: 580px;
+    margin-top: -135px;
+    font-size: 90px;
+}
+
+ #B9{
+    margin-left: 150px;
+    margin-top: -189px;
+    height: 500px;
+    width: 400px;
+ }
+
+ #B10{
+    margin-left: 940px;
+    margin-top: -390px;
+    height: 638px;
+    width: 370px;
+    }
+
+    #A13{
+        height: 638px;
+        width: 60px;
+        margin-top: -642px;
+        margin-left: 1310px;
+        background-color: rgb(249, 143, 4);
+    }
+
+    #A14{
+        height: 340px;
+        width: 36px;
+        margin-top: -580px;
+        margin-left: 1370px;
+        background-color: rgb(250, 76, 2);
+    }
+
+    
+    #A15{
+        font-size: 19.5px;
+        width: 320px;
+        height: 350px;
+        margin-left: 580px;
+        margin-top: -300px;
+        border-bottom: 40px solid black;
+       border-bottom-left-radius:120px;
+       text-align: right;
+      
+    }
+
+    #B12{
+      height: 800px;
+      width: 1300px;
+      border: 5px solid black;
+      margin-left: 100px;
+      margin-top: 90px;
+      
+    }
+ 
+    #B13{
+        margin-top: 80px;
+        margin-left: 310px;
+        color: rgb(250, 90, 4);
+        font-size: 70px;
+      
+    }
+
+   #B14{
+    color: white;
+    font-size: 18px;
+    margin-left: 350px;
+    margin-top: -20px;
+   }
+   
+   #B15{
+    color: white;
+    margin-left: 530px;
+    margin-top: -5px;
+    font-size: 25px;
+   }
+
+   #B16{
+    color:orangered;
+    margin-left: 665px;
+    margin-top: -50px;
+    font-size: 25px;
+   }
+
+   #A17{
+    height: 1000px;
+    width: 1305px;
+    margin-top: 100px;
+    margin-left: 100px;
+    background-image: url("masala.jpg");
+    background-repeat: no-repeat;
+    background-size: 1308px 1004px;
+    
+     }
+
+     #A18{
+        height: 550px;
+        width: 330px;
+        margin-top: -600px;
+        margin-left: 150px;
+        background-color: grey;
+        opacity: 0.7;
+     }
+
+     #B17{
+        font-size: 80px;
+        margin-left: 140px;
+       margin-top: 5px;
+    
+     }
+
+     #B18{
+        font-size: 35px;
+        margin-left: 80px;
+       margin-top: -50px;
+     }
+
+     #B19{
+        font-size: 18px;
+        margin-left: 20px;
+       margin-top: -10px;
+     }
+
+     #A19{
+        height: 550px;
+        width: 330px;
+        margin-top: -560px;
+        margin-left: 550px;
+        background-color:black;
+        opacity: 0.7;
+     }
+
+     #B20{
+        font-size: 80px;
+        margin-left: 140px;
+       margin-top: 5px;
+       color: orangered;
+       }
+
+       
+     #B21{
+        font-size: 35px;
+        margin-left: 80px;
+       margin-top: -50px;
+       color: orangered;
+     }
+
+     #B22{
+        font-size: 18px;
+        margin-left: 20px;
+       margin-top: -10px;
+       color: orangered;
+     }
+
+     #A20{
+        height: 550px;
+        width: 330px;
+        margin-top: -560px;
+        margin-left: 950px;
+        background-color:orangered;
+        opacity: 0.7;
+     }
+
+     #B23{
+        font-size: 80px;
+        margin-left: 140px;
+       margin-top: 5px;
+       color: white;
+       }
+
+       
+     #B24{
+        font-size: 35px;
+        margin-left: 80px;
+       margin-top: -50px;
+       color: white;
+     }
+
+     #B25{
+        font-size: 18px;
+        margin-left: 20px;
+       margin-top: -10px;
+       color: white;
+     }
+
+
+    
+  
+    
+    
+
+
+
+ 
